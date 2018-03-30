@@ -7,7 +7,7 @@ It is both web based and Mobile integrated (Java ME2, Android (with 4 apps) and 
 
 DHIS2 in this case is going to be set up locally on a Linux machine and this platform is just an Update view for the rest of the team of 
     <ul>
-      <li>Management,</li><li>Sales,</li><li>Quality Assurance,</li> <li>Technical and</ul> <ul>...others from UgandaSoft Limited</ul> 
+      <li>Management,</li><li>Sales,</li><li>Quality Assurance,</li> <li>Technical and</ul> <ul>...others from <a href="http://ugandasoft.net/sales">UgandaSoft Limited</a></ul> 
     </ul> 
       
 ### Technology
